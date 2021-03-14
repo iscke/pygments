@@ -24,7 +24,7 @@ class TealLexer(RegexLexer):
 
     .. versionadded: 2.9
     """
-    name = 'teal'
+    name = 'TEAL'
     aliases = ['teal']
     filenames = ['*.teal']
 
